@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LightlanceSimpleAuth</string>
+    <string name="title">Lightlance</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="haven_t_account">Haven\'t Account?</string>
+    <string name="hello">Hello</string>
+    <string name="lightlancer">Lightlancer!</string>
+</resources>
